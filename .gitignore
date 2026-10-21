@@ -2,3 +2,6 @@ Icon?
 Icon
 .cph
 cph/
+.vscode
+.vscode/
+.DS Store
